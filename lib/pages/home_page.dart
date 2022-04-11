@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 
 class homepage extends StatelessWidget {
+  final int days = 30;
+  final String name = "codepur";
 
   
   const homepage({ Key? key }) : super(key: key);
